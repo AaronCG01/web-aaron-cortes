@@ -1,4 +1,4 @@
-//Adding two numbers on C++
+//Adding two numbers in C++
 
 using namespace std;
 
